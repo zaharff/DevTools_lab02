@@ -4,6 +4,15 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 		<Deterministic>false</Deterministic>
+
+		<PackageId>TubylovZahar.Powercollections</PackageId>
+		<Version>0.0.3-beta</Version>
+		
+		<Authors>Тубылов Захар</Authors>
+		<Copyright>Copyright,  Тубылов"</Copyright>
+		<ProductName>Tubylov Powercollections</ProductName>
+		
+		<RepositoryUrl>https://github.com/zaharff/DevTools_lab02.git</RepositoryUrl>
 	</PropertyGroup>
 
 </Project>
