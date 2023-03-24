@@ -1,7 +1,7 @@
 ﻿namespace Wintellect.PowerCollections
 {
     public class Stack<T>
-    
+    {
         private T[] items;
         private int count;
         const int n = 10;
